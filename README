@@ -1,0 +1,7 @@
+Here's a very simple script to call nokogiri and use xpath to find and modify some text in the document.
+
+I was surprised how difficult it was to find a CLEAN SIMPLE example of this (including unzip/zip), so here is one.
+
+usage: ruby replace_docx_content.rb test.docx
+
+then open test-merged.docx!
